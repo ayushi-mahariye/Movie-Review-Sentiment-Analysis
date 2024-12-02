@@ -112,12 +112,6 @@ Deployment Link : https://movie-review-sentiment-analysis-meetwkjkjbz7cdvx4cpxsf
 
 ---
 
-## 📊 Results  
-
-- **Model Accuracy**: Achieved XX% on the IMDB test dataset.  
-- **Precision**: XX%  
-- **Recall**: XX%  
-- **F1 Score**: XX%  
 
 ---
 
